@@ -13,3 +13,6 @@ For our purposes we need to create:
   
  Here we devide our terraform file in different sub files in order to manage them easiyl. With help of this structure we can manage and implement our terraform files
  easier.
+
+
+![Security-Groups](https://user-images.githubusercontent.com/46762226/205483751-8c0a77fc-febb-4bed-aa7f-b1bf04fe321d.png)
